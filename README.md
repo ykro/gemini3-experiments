@@ -1,6 +1,6 @@
-# Gemini3 Experiments
+# Gemini 3 Experiments
 
-A collection of experiments using Gemini 3 and other advanced AI technologies.
+A collection of experiments using Gemini 3 and Nano Banana Pro. Google Cloud credits are provided for these projects. #AISprint
 
 ## Projects
 
@@ -9,28 +9,38 @@ A collection of experiments using Gemini 3 and other advanced AI technologies.
 A digital storytelling tool that transforms concepts into visual narratives using AI.
 - **Try it:** [Live Demo](https://panel-one-frontend-txrlrpoirq-uc.a.run.app/)
 
+![Panel One Example](assets/panel-one-comic.jpg)
+
 ### 2. Run-or-Done
 **Repo:** [https://github.com/ykro/run-or-done](https://github.com/ykro/run-or-done)
 Analyzes the condition of running shoes to determine if they are safe to run in or need replacing.
 - **Try it:** [Live Demo](https://run-or-done-504954692234.us-central1.run.app/)
+
+![Run or Done Report](assets/run-or-done-report.png)
 
 ### 3. RunSight
 **Repo:** [https://github.com/ykro/run-sight](https://github.com/ykro/run-sight)
 Forensic Athletic Analysis CLI and Web App providing advanced metrics from FIT files.
 - **Try it:** [Live Demo](https://runsight-web-504954692234.us-central1.run.app/)
 
+![RunSight Dashboard](assets/runsight-dashboard.png)
+
 ### 4. Cosmic Oracle
 **Repo:** [https://github.com/ykro/cosmic-oracle](https://github.com/ykro/cosmic-oracle)
-An AI-powered Tarot reading application with a Neo-Arcane Cyberpunk aesthetic.
+Napkin-to-app, shows the journey from a drawing to a working app (Neo-Arcane Cyberpunk aesthetic) using AI to transform the mockup, generate assets and generate the app.
 - **Try it:** [Source Code](https://github.com/ykro/cosmic-oracle)
 
-### 5. Manga (MotionManga)
+![Cosmic Oracle Card](assets/cosmic-oracle-card.png)
+
+### 5. Motion Manga
 **Repo:** [https://github.com/ykro/motion-manga](https://github.com/ykro/motion-manga)
-Transforms video footage into manga-style comic pages using multimodal AI.
+Transforms short videos into manga-style comic pages using multimodal AI.
 - **Try it:** [CLI Tool](https://github.com/ykro/motion-manga)
 
-### 6. Antigravity refactoring
+![Motion Manga Comic](assets/motion-manga-comic.jpg)
+
+### 6. Tempo Lottery
 *Coming soon*
 
-### 7. Tempo
+### 7. Antigravity refactoring
 *Coming soon*
