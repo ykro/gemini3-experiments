@@ -5,7 +5,7 @@ A collection of experiments using Gemini 3 and Nano Banana Pro. Google Cloud cre
 ## Projects
 
 ### 1. [Panel One](https://github.com/ykro/panel-one)
-A digital storytelling tool that transforms concepts into visual narratives using AI.
+A digital storytelling tool that take up to 8 photos, creates a narrative y generates a comic panel.
 - **Try it:** [Live Demo](https://panel-one-frontend-txrlrpoirq-uc.a.run.app/)
 
 ![Panel One Example](assets/panel-one-comic.jpg)
@@ -17,13 +17,13 @@ Analyzes the condition of running shoes to determine if they are safe to run in 
 ![Run or Done Report](assets/run-or-done-report.png)
 
 ### 3. [RunSight](https://github.com/ykro/run-sight)
-Forensic Athletic Analysis CLI and Web App providing advanced metrics from FIT files.
+Deep Strategic Athletic Analysis App that takes a FIT file and provides feedback.
 - **Try it:** [Live Demo](https://runsight-web-504954692234.us-central1.run.app/)
 
 ![RunSight Dashboard](assets/runsight-dashboard.png)
 
 ### 4. [Cosmic Oracle](https://github.com/ykro/cosmic-oracle)
-Napkin-to-app, shows the journey from a drawing to a working app (Neo-Arcane Cyberpunk aesthetic) using AI to transform the mockup, generate assets and generate the app.
+Napkin-to-app, shows the journey from a drawing to a working app using AI to create the mockup, generate assets and generate the app.
 - **Try it:** [Source Code](https://github.com/ykro/cosmic-oracle)
 
 ![Cosmic Oracle Card](assets/cosmic-oracle-card.png)
