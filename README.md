@@ -24,7 +24,7 @@ Deep Strategic Athletic Analysis App that takes a FIT file and provides feedback
 
 ### 4. [Cosmic Oracle](https://github.com/ykro/cosmic-oracle)
 Napkin-to-app, shows the journey from a drawing to a working app using AI to create the mockup, generate assets and generate the app.
-- **Try it:** [Source Code](https://github.com/ykro/cosmic-oracle)
+- **Try it:** [Live Demo](https://cosmic-oracle-frontend-txrlrpoirq-uc.a.run.app/)
 
 ![Cosmic Oracle Card](assets/cosmic-oracle-card.png)
 
@@ -34,8 +34,11 @@ Transforms short videos into manga-style comic pages using multimodal AI.
 
 ![Motion Manga Comic](assets/motion-manga-comic.jpg)
 
-### 6. Tempo Lottery
-*Coming soon*
+### 6. [Tempo Lottery](https://github.com/ykro/tempo-lottery)
+A fast-paced card game where players must match symbols to advance.
+- **Try it:** [Live Demo](https://tempo-lottery-504954692234.us-central1.run.app/)
+
+![Tempo Lottery Game](assets/tempo-lottery.jpg)
 
 ### 7. Antigravity refactoring
 *Coming soon*
